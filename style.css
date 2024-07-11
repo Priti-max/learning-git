@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* border-style: double; */
+    /* text-decoration: blink; */
+}
+/* body{
+    background-image: url(https://unsplash.com/photos/0hJGJHtta7s);
+} */
+.font{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.intro #first{
+    font-size: medium;
+    background-color: rgb(99, 36, 11);
+    font: weight 400px;
+}
+.first{
+    background-color: rgb(117, 141, 62);
+    color: rgb(114, 10, 114);
+    font-size: 200%;
+    letter-spacing: 4px;
+}
+h2{
+    background-color: rgb(20, 73, 97);
+    color: rgb(117, 14, 49);
+    font-style: oblique;
+}
+h1 {
+    /* background-color: rgb(34, 136, 51); */
+    /* background-image: url(wings.png);
+    height: auto;
+    width: auto; */
+    color: rgb(137, 13, 141);
+    font-variant:small-caps;
+    text-transform: lowercase;
+    text-align: center;
+}
+p{
+    text-align: left;
+    display: table-cell;
+    vertical-align: middle;
+    height: 200px;
+    width: 100vw;
+    /* text-decoration:blink; */
+    text-shadow: 3px -4px 9px rgb(107, 145, 19);
+    letter-spacing: -0.2px;
+}
+/* div{
+    height: 200px;
+    width: 100vw;
+} */
+/* .shape{
+    cx: 80;
+    cy: 80;
+    r:50;
+    fill: rgb(42, 117, 95);
+} */
+.image{
+    background-image: url(wings.png);
+    height: 1000px;
+    width: 100vw;
+}
